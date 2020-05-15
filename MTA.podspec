@@ -36,7 +36,7 @@ a simple demo for test, go, go, go
   #   'MTA' => ['MTA/Assets/*.png']
   # }
 
-  s.vendored_frameworks = 'CJSDK/Classes/*.framework'
+  s.vendored_frameworks = 'MTA/Classes/*.framework'
   
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
